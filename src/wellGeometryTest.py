@@ -150,4 +150,4 @@ def print_well(testJSON):
 
 fig,_,_ = print_well(testJSON)
 
-fig.show()
+# fig.show()
